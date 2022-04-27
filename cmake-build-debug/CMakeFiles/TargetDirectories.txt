@@ -1,0 +1,3 @@
+C:/Users/georg/CLionProjects/Sequential-and-Doubly-Linked-List-Implementation/cmake-build-debug/CMakeFiles/mte140-a1.dir
+C:/Users/georg/CLionProjects/Sequential-and-Doubly-Linked-List-Implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/georg/CLionProjects/Sequential-and-Doubly-Linked-List-Implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
